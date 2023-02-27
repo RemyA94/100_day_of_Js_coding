@@ -8,5 +8,5 @@ steps to execute the project:
 
 
 <p align="center">
-  <img align="center" src="https://github.com/RemyA94/100_day_of_Js_coding/blob/main/pixel_paint_app/img.png" width="750" height="480">
+  <img align="center" src="https://github.com/RemyA94/100_day_of_Js_coding/blob/main/pixel_paint_app/img.png" width="750" height="680">
 </p>
